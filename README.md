@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Francis as @myk-francis
-- 👀 I’m interested in everything JavaScript and new tech.
+- 👀 I’m interested in everything JavaScript, Typescript and React Native.
 - 🌱 I’m currently building web and mobile apps using React and React Native
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me michaelmugendi1707@gmail.com
