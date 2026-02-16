@@ -22,11 +22,6 @@ I’m a **Software Developer** passionate about building modern **web and mobile
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myk-francis&show_icons=true&theme=tokyonight" />
-</p>
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=myk-francis&theme=tokyonight" />
